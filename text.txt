@@ -1,0 +1,13 @@
+Linea 1
+Linea 2
+Linea 3
+otra
+cosa
+en
+este
+archivo
+de
+texto
+planoNew things in this fileNew things in this file 
+New line 1 
+New line 2 
